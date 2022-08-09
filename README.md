@@ -3,4 +3,4 @@
 ### Computer Science
 
 Right now focusing on:
--first item HTML & CSS
+- HTML & CSS
