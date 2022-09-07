@@ -1,6 +1,7 @@
 # Student Profile
 ## Ivan S. Correia
-### Computer Science
+### Software Engineering
 
 Right now focusing on:
+- CS & Programming Fundamentals
 - HTML & CSS
